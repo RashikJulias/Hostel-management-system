@@ -1,6 +1,1 @@
 # Hostel-management-system
-
-
-
-
-AIUB
